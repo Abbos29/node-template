@@ -1,1 +1,3 @@
-console.log("Hello World");
+const getDate = require('./date.js');
+
+console.log(getDate());
